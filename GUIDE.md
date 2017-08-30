@@ -1,10 +1,10 @@
-# Using the BitPay plugin for ECWID
+# Using the GloBee plugin for ECWID
 
 ## Prerequisites
 
 * Last Version Tested: 13.0.1629
 
-You must have a BitPay merchant account to use this plugin.  It's free to [sign-up for a BitPay merchant account](https://bitpay.com/start).
+You must have a GloBee merchant account to use this plugin.  It's free to [sign-up for a GloBee merchant account](https://globee.com/).
 
 
 ## Installation & Configuration
@@ -14,7 +14,7 @@ You must have a BitPay merchant account to use this plugin.  It's free to [sign-
 - Set $storeURL to the URL of your store's homepage.
 - Set $storeID to your ecwid store ID found in the bottom-right of the Ecwid control panel.
 - Set $bitpayURL to the URL of the bitpay/ folder which you extracted from this plugin.
-- Set $apiKey to the key you created at bitpay.com in the "My Account > API Access Keys" section.
+- Set $apiKey to the key you created at globee.com in the "My Account > API Access Keys" section.
 - Adjust $speed if desired.
 	
 **In your Ecwid control panel:**
@@ -34,7 +34,7 @@ You must have a BitPay merchant account to use this plugin.  It's free to [sign-
 - Either click "New CSS Theme" or edit your own theme.
 - Add this to the text area of your custom theme:
 ```css
-		/* bitpay checkout image */
+		/* globee checkout image */
 		img.defaultCCImage {
 			padding: 25px 263px 0px 0px; 
 			background: url('https://en.bitcoin.it/w/images/en/2/29/BC_Logo_.png'); 

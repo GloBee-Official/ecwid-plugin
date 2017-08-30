@@ -2,11 +2,11 @@
 
 This is a Community-supported project.
 
-If you are interested in becoming a maintainer of this project, please contact us at integrations@bitpay.com. Developers at BitPay will attempt to work with new maintainers to ensure the project remains viable for the foreseeable future.
+If you are interested in becoming a maintainer of this project, please contact us at integrations@globee.com. Developers at GloBee will attempt to work with new maintainers to ensure the project remains viable for the foreseeable future.
 
 # Description
 
-Bitcoin payment plugin for Ecwid using the bitpay.com service.
+Bitcoin payment plugin for Ecwid using the globee.com service.
 
 
 ## Quick Start Guide
@@ -18,7 +18,7 @@ To get up and running with our plugin quickly, see the GUIDE here: https://githu
 
 ## Troubleshooting
 
-The official BitPay API documentation should always be your first reference for development: https://bitpay.com/downloads/bitpayApi.pdf
+The official GloBee API documentation should always be your first reference for development.
 
 - Verify that your "notificationURL" for the invoice is "https://" (not "http://")
 - Ensure a valid SSL certificate is installed on your server. Also ensure your root CA cert is updated. If your CA cert is not current, you will see curl SSL verification errors.
@@ -34,8 +34,8 @@ The official BitPay API documentation should always be your first reference for 
 
 * [GitHub Issues](https://github.com/bitpay/ecwid-plugin/issues)
   * Open an issue if you are having issues with this plugin.
-* [Support](https://help.bitpay.com/)
-  * BitPay merchant support documentation
+* [Support](https://help.globee.com/)
+  * GloBee merchant support documentation
 
 **Ecwid Support**
 
