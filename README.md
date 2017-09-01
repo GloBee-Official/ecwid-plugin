@@ -4,6 +4,10 @@ This is a Community-supported project.
 
 If you are interested in becoming a maintainer of this project, please contact us at integrations@globee.com. Developers at GloBee will attempt to work with new maintainers to ensure the project remains viable for the foreseeable future.
 
+# GloBee plugin for ECWID
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://raw.githubusercontent.com/GloBee-Official/ecwid-plugin/master/LICENSE.txt)
+
 # Description
 
 Bitcoin payment plugin for Ecwid using the globee.com service.
@@ -13,7 +17,7 @@ Bitcoin payment plugin for Ecwid using the globee.com service.
 
 * Last Version Tested: 13.0.1629
 
-To get up and running with our plugin quickly, see the GUIDE here: https://github.com/bitpay/ecwid-plugin/blob/master/GUIDE.md
+To get up and running with our plugin quickly, see the GUIDE here: https://github.com/GloBee-Official/ecwid-plugin/blob/master/GUIDE.md
 
 
 ## Troubleshooting
@@ -30,9 +34,9 @@ The official GloBee API documentation should always be your first reference for 
 
 ## Support
  
-**BitPay Support:**
+**GloBee Support:**
 
-* [GitHub Issues](https://github.com/bitpay/ecwid-plugin/issues)
+* [GitHub Issues](https://github.com/GloBee-Official/ecwid-plugin/issues)
   * Open an issue if you are having issues with this plugin.
 * [Support](https://help.globee.com/)
   * GloBee merchant support documentation
@@ -48,14 +52,3 @@ The official GloBee API documentation should always be your first reference for 
 - Bitpay plugin version 1.0
 - Tested against Ecwid version 13.0.1629
 - Added new HTTP header for version tracking
-
-## License
-
-©2011-2015 BITPAY, INC.
-
-The MIT License (MIT)
-
-Permission is hereby granted to any person obtaining a copy of this software and associated documentation for use and/or modification in association with the bitpay.com service.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
