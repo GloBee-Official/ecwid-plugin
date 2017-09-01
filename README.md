@@ -6,7 +6,7 @@ If you are interested in becoming a maintainer of this project, please contact u
 
 # GloBee plugin for ECWID
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://raw.githubusercontent.com/GloBee-Official/ecwid-plugin/master/LICENSE.txt)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://raw.githubusercontent.com/GloBee-Official/ecwid-plugin/master/LICENSE)
 
 # Description
 
